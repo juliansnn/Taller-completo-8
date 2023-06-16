@@ -25,5 +25,13 @@ Este es el servlet del Login
 Este es el servlet del registro 
 ***
 ![image](https://github.com/juliansnn/Taller-completo-8/assets/128439443/b331593b-576b-4abb-8243-95731ddebd17)
-
 ***
+Y por último realizamos un ejemplo sobre como redireccionar a páginas externas al proyecto.
+***
+![image](https://github.com/juliansnn/Taller-completo-8/assets/128439443/1e27ebaa-53be-4be9-b3c3-4fa8989349b1)
+***
+![image](https://github.com/juliansnn/Taller-completo-8/assets/128439443/8f0ec0c8-8335-4276-b160-c3c276ddf510)
+***
+Y esto fué lo que se realizó en el taller 8 y 9.
+
+
